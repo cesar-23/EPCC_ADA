@@ -11,16 +11,6 @@ _Mensaje 2_
 * **César Gonzalo Carpio Paiva** 
 
 
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
 ```
-Dispositivo Movil
-```
-_En caso de querer editar el proyecto se necesitará lo siguiente: _
-```
-Andriod Studio
-```
-```
-JDK
+Embed
 ```
