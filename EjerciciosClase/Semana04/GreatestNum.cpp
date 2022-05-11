@@ -1,5 +1,9 @@
 #include <iostream>
 
+/*
+La coplejidad del ejercicio entregado era cuadratica, en cambio ahora es lineal mediante el apoyo de una variable externa al array
+*/
+
 using namespace std;
 
 int GreatestNum(int arr[],int tam)
