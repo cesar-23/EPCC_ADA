@@ -1,7 +1,10 @@
 #include <iostream>
 
 /*
+¿Cual es la complejidad del codigo?
 La coplejidad del ejercicio entregado era cuadratica, en cambio ahora es lineal mediante el apoyo de una variable externa al array
+¿Cual es el proposito del codigo?
+Encontrar el mayor numero entre una lista
 */
 
 using namespace std;
